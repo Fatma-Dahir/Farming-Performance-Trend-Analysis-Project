@@ -1,5 +1,5 @@
 # 📊 Farming Performance & Trend Analysis Project
-![Interactive   Dynamic Power BI Dashboard](https://github.com/user-attachments/assets/46282fb3-a334-4c74-bf37-d370501071eb)
+![Interactive   Dynamic Power BI Dashboard](https://github.com/user-attachments/assets/17b13762-914e-41a8-9ecb-ce0dc493bff5)
 
 # Project Overview
 This project analyzes key factors that affect crop yields for Rice, Wheat, Maize, Cotton, Sugarcane, Barley, and Soybean across Nigeria, USA, India, Brazil, and China. By examining crop performance, regional practices, and the impact of weather, the aim is to identify strategies for boosting productivity and reducing waste. The goal is to provide practical recommendations for farmers and regions to grow food more sustainably and efficiently.
